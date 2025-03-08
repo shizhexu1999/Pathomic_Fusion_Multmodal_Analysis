@@ -1,11 +1,11 @@
 **********************************************
-## **19 Pathomic Fusion: an interpretable attention-based framework that integrates genomics and imaging to predict cancer outcomes (SX263)**
+## Pathomic Fusion Model for Multimodal Healthcare Data**
 **********************************************
 
 ## Summary
 This `README.md` is accompanied by `reproducibility.md`.
 
-This repository serves for the submission of the MPhil project 19: Pathomic Fusion.
+This repository serves for the submission of the MPhil project of Data Intensive Science at the University of Cambridge.
 
 In this repository, we provide the code, reproduced results, and evaluation plots to complement our analysis and discussion in the report. The executive summary and project report are located in the `report` folder of this repository, or you can download it from [Google Drive](https://drive.google.com/drive/folders/1eSqSElu6f_T8s5uEzHU6ZgzrhJ3l-HDA?usp=sharing).
 
