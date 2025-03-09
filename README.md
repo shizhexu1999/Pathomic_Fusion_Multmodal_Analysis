@@ -1,5 +1,5 @@
 **********************************************
-## Pathomic Fusion Model for Multimodal Healthcare Data**
+## **Pathomic Fusion Model for Multimodal Healthcare Data**
 **********************************************
 
 ## Summary
