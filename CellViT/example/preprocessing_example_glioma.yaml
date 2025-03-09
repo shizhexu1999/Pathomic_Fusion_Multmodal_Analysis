@@ -1,0 +1,22 @@
+# dataset paths
+wsi_paths: ./example/TCGA-06-0174-01Z-00-DX3.23b6e12e-dfc1-4c6f-903e-170038a0e055.svs
+output_path: ./example/output/preprocessing
+
+# basic setups
+patch_size: 1024
+downsample: 2
+patch_overlap: 6.25
+target_mag: 40
+processes: 8
+overwrite: True
+
+# macenko stain normalization
+normalize_stains: True
+
+# finding patches
+min_intersection_ratio: 0.05
+
+
+# level: 1
+
+# store_masks: True
